@@ -54,7 +54,7 @@ On this page user also can connect his google account with Esatto.fit.
 - HTML, SCSS
 ## Authors
 
-- [Daniel Partatus](https://github.com/BugLurker404)
+- [Daniel Partatus](https://github.com/Dratatus)
 - [Roksana Cieśla]
 - [Piotr Kowalczyk]
 
