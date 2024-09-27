@@ -1,7 +1,7 @@
 
 # Esatto.Fit
 
-Esatto.fit is an internal Esatto application for physical activity competitions made during summary intership at Esatto Poland. 
+Esatto.fit is an internal Esatto application for physical activity competitions made during work at Esatto Poland. 
 To use application user must login by microsoft Esatto account.
 
 ## User Perspective
